@@ -1,2 +1,4 @@
-# ParkingOptimization
-This is an attempt intended to significantly reduce the inconvenience of car parking in a zone where many automobiles enter and exit at once.
+# Parking Management System
+
+This is an attempt intended to significantly reduce the inconvenience of car parking in a zone where many automobiles enter and exit at once. Furthermore, it might be difficult to pinpoint whether there is open space that can be used. We make an effort to apply operations research towards optimising parking zones before determining whether the space is open for usage. In order to let visitors know where to go, we utilise cameras to continuously monitor the space. When the space is empty, it might be indicated on the entrance using a basic LED implementation.
+Future improvements will aim to comprehend the parking spaces that are available in the surrounding area. People may even provide the space near their home in exchange for a little payment in cryptocurrency.
